@@ -1,6 +1,6 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-<h1 align="center">Hey there 👋🏼, I'm <span style="color:#00ADEF;">Aila Kaushik</span> – Future-Ready Developer from India 🚀</h1>
+<h1 align="center">Hey there 👋🏼, I'm <span style="color:#00ADEF;">Aila Kaushik</span> - Full Stack and AIML Developer from India 🚀</h1>
 
 <p align="center">
   🎓 B.E. (Honors) in CSE @ OUCE | 🤖 AI/ML Enthusiast | 🌐 Full-Stack Developer | 💡 Research-Oriented | 🎥 YouTuber (Soon!)
